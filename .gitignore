@@ -1,0 +1,32 @@
+# IDEs
+.idea
+.vscode
+cspell.json
+sonar-project.properties
+./bw-output
+**/*.old
+.sonar_lock
+report-task.txt
+
+# File Systems
+.DS_Store
+
+# Rust artifacts
+/target
+target/*.bin
+assets/*.mod
+assets/test_modules/*.mod
+assets/test_modules/*.mod.disabled
+assets/release_modules/*.mod
+assets/release_modules/*.mod.disabled
+src/kernel/modules/generated_preloaded_modules.rs
+tests/
+
+# Cargo artifacts
+Cargo.lock
+.cargo/.global-cache
+.cargo/registry/
+.cargo/.package-cache
+.cargo/.package-cache-mutate
+.cargo/git/**
+
