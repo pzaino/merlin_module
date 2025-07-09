@@ -1,8 +1,8 @@
 # Merlin Module
 
 [![Security Audit](https://github.com/pzaino/merlin_module/actions/workflows/rust-security.yml/badge.svg)](https://github.com/pzaino/merlin_module/actions/workflows/rust-security.yml)
-<!-- ![CodeQL: ](https://github.com/pzaino/merlin_module/actions/workflows/github-code-scanning/codeql/badge.svg)
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpzaino%2Fmerlin_module.svg?type=shield&issueType=security)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpzaino%2Fmerlin_module?ref=badge_shield&issueType=security) -->
+![CodeQL: ](https://github.com/pzaino/merlin_module/actions/workflows/github-code-scanning/codeql/badge.svg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpzaino%2Fmerlin_module.svg?type=shield&issueType=security)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpzaino%2Fmerlin_module?ref=badge_shield&issueType=security)
 [![Build Test](https://github.com/pzaino/merlin_module/actions/workflows/rust.yml/badge.svg)](https://github.com/pzaino/merlin_module/actions/workflows/rust.yml)
 [![Rust](https://img.shields.io/badge/rust-1.70+-blue.svg)](https://www.rust-lang.org/)
 
