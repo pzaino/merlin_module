@@ -7,7 +7,7 @@
 [![Rust](https://img.shields.io/badge/rust-1.70+-blue.svg)](https://www.rust-lang.org/)
 
 [![License](https://img.shields.io/badge/license-MPL%202.0-blue.svg)](LICENSE.txt)
-<!-- [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpzaino%2Fmerlin_module.svg?type=shield&issueType=license)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpzaino%2Fmerlin_module?ref=badge_shield&issueType=license) -->
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpzaino%2Fmerlin_module.svg?type=shield&issueType=license)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpzaino%2Fmerlin_module?ref=badge_shield&issueType=license)
 
 ![GitHub language count](https://img.shields.io/github/languages/count/pzaino/merlin_module)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/pzaino/merlin_module)
