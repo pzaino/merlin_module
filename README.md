@@ -28,6 +28,9 @@ If you don't know what RISC OS Merlin is or you are looking for the Merlin Kerne
 - **Constants**: Provides a set of constants that are commonly used in kernel module development.
 - **Macros**: Includes macros to simplify common tasks in module development.
 
+## License
+RISC OS Merlin is Copyright (c) by Paolo Fabio Zaino, all rights reserved. This project is licensed under MPL 2.0, see the [LICENSE](LICENSE.txt) file for details.
+
 ## Usage
 
 To use the Merlin module in your project, add the following to your `Cargo.toml`:
@@ -44,10 +47,17 @@ extern crate merlin_module;
 use merlin_module::{consts, header, macros};
 ```
 
+## Building documentation
+
+To build the documentation for this crate, run the following command:
+
+```bash
+cargo doc --open
+```
+
 ## Contributing
 
 We welcome contributions to the Merlin module! If you have suggestions, improvements, or bug fixes, please open an issue or submit a pull request on the [GitHub repository](https://github.com/pzaino/merlin_module).
 
-## License
+For more info on contributing please check the [CONTRIBUTING](./CONTRIBUTING.md) file for all the details, thank you.
 
-This project is Copyright by Paolo Fabio Zaino (all rights reserved) and is licensed under the MPL 2.0 License. See the [LICENSE](LICENSE.txt) file for details.
