@@ -1,4 +1,4 @@
-# Merlin Module
+# RISC OS Merlin Kernel Module development library/crate
 
 [![Security Audit](https://github.com/pzaino/merlin_module/actions/workflows/rust-security.yml/badge.svg)](https://github.com/pzaino/merlin_module/actions/workflows/rust-security.yml)
 ![CodeQL: ](https://github.com/pzaino/merlin_module/actions/workflows/github-code-scanning/codeql/badge.svg)
