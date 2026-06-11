@@ -20,7 +20,7 @@ Status: **WORK IN PROGRESS**
 
 The Merlin module is a Rust library designed to facilitate the development of Merlin Kernel's modules. It provides a set of utilities and macros that simplify the process of creating a kernel module.
 
-If you don't know what RISC OS Merlin is or you are looking for the Merlin Kernel itself, please refer to the [Project Presentation](https://riscoscommunity.org/projects/risc-os-merlin/).
+If you don't know what RISC OS Merlin is or you are looking for the Merlin Kernel itself, please refer to the [Project Presentation](https://paolozaino.wordpress.com/portfolio/merlin-a-modern-memory-safe-kernel-and-platform/).
 
 ## Features
 
